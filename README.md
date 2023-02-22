@@ -1,3 +1,0 @@
-# SamiraHajizadeh.github.io
-
-Hello
