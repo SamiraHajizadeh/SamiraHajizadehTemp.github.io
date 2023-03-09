@@ -2,26 +2,3 @@
 theme: minimal
 title: My Website
 ---
-
-<!-- Header -->
-<header>
-  <h1>Welcome to My Website</h1>
-</header>
-
-<!-- Main content -->
-<main>
-  <h2>About Me</h2>
-  <p>Insert your introduction here.</p>
-
-  <h2>My Projects</h2>
-  <ul>
-    <li><a href="#">Project 1</a></li>
-    <li><a href="#">Project 2</a></li>
-    <li><a href="#">Project 3</a></li>
-  </ul>
-</main>
-
-<!-- Footer -->
-<footer>
-  <p>Copyright © 2023 My Website</p>
-</footer>
